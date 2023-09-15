@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**222010302004/222010302004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hari Vardhan Reddt Pasam/222010302004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
